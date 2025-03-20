@@ -13,6 +13,7 @@ Large language models (LLMs), through pretraining on extensive corpora, encompas
 + Python 3.10.4
 + torch 2.0.0+cu118
 + numpy 1.22.3
++ transformers 4.35.2
 
 ## Citation
 
