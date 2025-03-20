@@ -1,6 +1,6 @@
 # (ICLR 2025) HeadMap: Locating and Enhancing Knowledge Circuits in LLMs
 
-[Xuehao Wang](https://openreview.net/profile?id=~Xuehao_Wang3), [Liyuan Wang](https://openreview.net/profile?id=~Liyuan_Wang3), [Binghuai Lin](https://openreview.net/profile?id=~Binghuai_Lin1), [Yu Zhang](https://openreview.net/profile?id=~Yu_Zhang3)https://openreview.net/profile?id=~Yu_Zhang3)
+[Xuehao Wang](https://openreview.net/profile?id=~Xuehao_Wang3), [Liyuan Wang](https://openreview.net/profile?id=~Liyuan_Wang3), [Binghuai Lin](https://openreview.net/profile?id=~Binghuai_Lin1), [Yu Zhang](https://openreview.net/profile?id=~Yu_Zhang3)
 
 Official Implementation of ICLR 2025 paper "[HeadMap: Locating and Enhancing Knowledge Circuits in LLMs](https://openreview.net/forum?id=jUsrbOuQ5e)".
 
